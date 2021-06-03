@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Occvrrences from Ireland ... being a copy of a letter from Dublin / by an officer of the regiment commanded by Colonell Munke ; relating all the severall passages of the English forces in those parts against the rebels ; also relieving of divers castles and the bringing in of the heads of the Lord Cunboynes brother, Colonell Berne and Colonell Butler  ; with divers other matters of note.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18427</idno><idno type="EEBO-CITATION">12843940_199506</idno>
+  <idno type="VID">199506</idno>
+  <idno type="EEBO-PROQUEST">2264197198</idno>
+  
+            <idno type="STC">Wing C110</idno>
+            <idno type="OCLC">12843940</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18427)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 199506)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 251:E146, no 8, 622:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Occvrrences from Ireland ... being a copy of a letter from Dublin / by an officer of the regiment commanded by Colonell Munke ; relating all the severall passages of the English forces in those parts against the rebels ; also relieving of divers castles and the bringing in of the heads of the Lord Cunboynes brother, Colonell Berne and Colonell Butler  ; with divers other matters of note.</title>
+                  <author>R. C.</author>
+               </titleStmt>
+               <extent>v.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Twyford,</publisher>
+                  <pubPlace>London :</pubPlace>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Description based on: Numb. 3 (May 3, 1642).</note>
+                  <note>Numb. 3 signed: R.C.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library and Bodleian Library; UMI reels listed in chronological order of serial publication; scattered holdings listed.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ireland --  History --  Rebellion of 1641 --  Periodicals.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:199506:1"/>
+            <p>Tuesday May 3. 1642. Numb. 3. </p>
+            <p>OCCVRRENCES From IRELAND From the 2. of April, to the 22. <hi>Being a Copy of a Letter from Dublin, by an Of<g ref="char:EOLhyphen"/>ficer of the Regiment, commanded by Colonell</hi> Munke, Written to a private friend of his in London.</p>
+            <p>Relating all the severall passages of the Eng<g ref="char:EOLhyphen"/>lish forces in those parts against the Rebels.</p>
+            <p>Also relieving of divers Castles, and the bring<g ref="char:EOLhyphen"/>ing in of the heads of the Lord <hi>Dunboynes</hi> brother, Colonell <hi>Berne,</hi> and Colonell <hi>Butler,</hi> with divers other matters of note.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Henry Twyford.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:199506:2"/>
+            <pb facs="tcp:199506:2"/>
+            <head>Good and true Newes from <hi>Ireland.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">V</seg>Pon the second of this month with 2500. foote and 4. or 500. horse, wee marched from this Towne to relieve some Castles and Townes in the Queenes County, and the County of Kildare; in all our march we burned houses and corne for three miles round us, we met with no enemy that did oppose us, but upon the second daies march, quar<g ref="char:EOLhyphen"/>ter Mr. General <hi>Logde,</hi> and about 100. horsemen, (my selfe being there) riding before to take quarters, wee met with one <hi>Suttons</hi> Castle a Rebell, being a mile from the Maas, 60. of us went into the court, where we found 5. or 600. good poultry, we killed as many as served our turnes, and tooke out of the stables three good horses, and the people of the Castle never sent shot amongst us, though indeed they might have cut most of us off, considering how carelesse we were of our selves in running after the poultry, but afterwards a troope of horse going into the court, they shot the trumpeter dead, upon this 200. musquetteers were drawne out and plaid before the Castle three houres, we lost foure men, and tenne shot, at last wee were forc't to blow up the Castle (being tenne a clocke at
+<pb facs="tcp:199506:3"/>night) two men and one woman were saved, and the next morning hanged, the next day wee relieved the English in Athy, and made it a garrison, we hanged the Major of the Towne, and divers others of good quality; the same day we relieved Captaine <hi>Grymes</hi> Castle, and left him ammunition and men; within two dayes wee marched to the Fort of Least, where the poore people received us with joyfull teares, having beene much oppressed by the Rebells, and almost starved within the Fort; the enemies are very strong in those parts, two daies after we came to the Fort, the Rebells had got upon a foard betweene Sir <hi>Charles Coot</hi> and the Fort, he having 200. horse with him, burning the Country about, but my Lord of Ormond hearing of it, sent my colours with 600. musqueteers, and some few firelocks to cleare the Foard; we fought with the Rebells three or foure houres, wee had shot dead six men, and fourteene or fifteene shot; this time we kept the Rebells doing: Sir <hi>Charles Coot</hi> and his horse was got seven miles higher by the river side, where it was foarable, and by this meanes was freed, otherwise had been lost; when we had strengthened the Fort of Least with men, munition and money, wee were resolved to march to Dublin, but the Rebells had sent us word they would prevent us, having ga<g ref="char:EOLhyphen"/>thered together the strength of three Counties at least, to the number of 10000 men. Their purpose was to stoppe our passage upon a Foard, we had not that day marched three miles till we discovered many of their colours, they marched very fast to meet us, we being at a halt, stayed till they came just against us, but there was a bogge betweene us, so that we could not meet
+<pb facs="tcp:199506:3"/>till we had marched foure miles, all this way our van and theirs marched in one brest, onely some 600. of our men were commanded before to cleare our pas<g ref="char:EOLhyphen"/>sage, and was got over the Foard before we came half an houre, when we came to the end of the bog the Re<g ref="char:EOLhyphen"/>bells fact us, my Lord of Ormond presently drew our men in battalia, and fronted the enemy with our small number as there was occasion; the Rebells all this while was very busie preparing to fight, we had foure troopes of horse on the right wing of our army, and foure of the left wing, my colours that day comman<g ref="char:EOLhyphen"/>ded our right wing division, which indeed was against their battalia; being ready, we marched in the plaine field till we came lesse then halfe musquet shot of them before wee gave fire, our five field pieces were planted by a ditch side, within musket shot of the ene<g ref="char:EOLhyphen"/>my: the enemy had all advantages the place could af<g ref="char:EOLhyphen"/>ford them, first, they had the winde, then the hill, and a strong ditch of a mile long, that no breast worke could be better, wee could see nothing but the very tops of their heads, so soone as the field pieces were shot (though they did no execution) our men fell on like so many Captaines, cheering themselves with shoutes, and powring milions of shots to the Rebells, all this while I dare say, we killed not tenne Rebells, by reason of their strong worke, it was the goodnesse of the Almighty who preserved us this time all with life, unlesse six men which dyed in place, though in<g ref="char:EOLhyphen"/>deed they might easily killed abundance of us being within pistoll shot of them, and in the open field, then the rogues runne, and upon the pursuit were killed neare 500. of them, they had a bog neare them, where
+<pb facs="tcp:199506:4"/>runne a maine, had we had one mile of good ground more, our horse had got betweene them and the bog, and our musketiers in the reare, we had cut off every foote man of theirs, their horse they rid into the bogs, and there stabled, then some fifteene of them got out, I got some twelve or fourteen pound in pillage, wee killed the Lord <hi>Dunboynes</hi> brother, Colonell <hi>Berne,</hi> and Colonell <hi>Butler,</hi> and brought their heads along, this being done, every one of us fell on our knees, and gave God thankes for a safe deliverance, and so wee marched.</p>
+            <p>Sir, I thanke you for my Letter, which I received the day after I came home: wee are going on munday to a very strong Castle seaven miles from this Towne, where we expect very hot service, the Rebels being strong. I will write you the effect of it by the next Or<g ref="char:EOLhyphen"/>dinary. The Lords Justices use us very unkind<g ref="char:EOLhyphen"/>ly, they will not give us neither seaven dayes, nor four<g ref="char:EOLhyphen"/>teen dayes, nor twenty eight dayes pay, but some small imprests, hardly enough to keep life and soule toge<g ref="char:EOLhyphen"/>ther. And for the private Souldiers, my Lord <hi>Parsons</hi> Ammunition Beefe hath almost killed halfe of them. In the Rebels Proclamation they spoke of great sums they would give to any that should bring in the Lord of <hi>Ormonds</hi> head, Sir <hi>Charles Coot,</hi> the Treasurer, and divers others of the Councell: But when they spoke of the two Lords Justices, Lord <hi>Parsons</hi> and <hi>Burlace,</hi> they would not give two pence for theirs.</p>
+            <closer>
+               <dateline>
+                  <hi>Dublin</hi>
+                  <date>
+                     <hi>April</hi> 22. 1642.</date>
+               </dateline>
+               <signed>
+                  <hi>With my service to your selfe I rest your assured servant to command.</hi> R. C.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:199506:4"/>
+            <head>Another Letter to a speciall friend, dated April 22. 1642.</head>
+            <p>AT my comming to Dublin, the Army was a<g ref="char:EOLhyphen"/>broad; but on Sunday last returned with victo<g ref="char:EOLhyphen"/>ry in great Triumph, having given the Rebels battaile the Friday before; who met them some seventeene miles from Dublin, with at least ten or twelve thou<g ref="char:EOLhyphen"/>sand horse and foot, having great advantage of the English Army, both by gaining the Hill, the Winde and Sunne: But after our Field-peeces had dischar<g ref="char:EOLhyphen"/>ged their rankes, our horse brake in upon them, and kild five or sixe hundred of them, the rest fled away o<g ref="char:EOLhyphen"/>ver Bogges, where they lost many of their horse. In this defeat we got five of their Colours, tooke some of their Baggage, Waggons and Carts, three of their chiefe Commanders heads were brought to Dublin, Sir <hi>Morgan Cavenan,</hi> the Lord <hi>Mount Garrets</hi> sonne in Law, and another Colonels head, Sir <hi>Charles Coot</hi> be<g ref="char:EOLhyphen"/>ing left behind at the Neast, about twelve miles from Dublin, with about 1500. of our Army conceiving the Rebels would follow him: Our Northerne Ar<g ref="char:EOLhyphen"/>my, under the command of Sir <hi>Henry Titchbourne,</hi> and the Lord <hi>Moore</hi> have taken <hi>Dundalke</hi> from the Rebels, where they put almost all the whole Towne to the sword. The warre is now become so bloody, that there is no quarter given on any side. Wee heare hee hath taken in the <hi>Newry.</hi> Three or four thousand Scots are landed, also more Northerly. The next opportuni<g ref="char:EOLhyphen"/>ty expect a continuation.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
